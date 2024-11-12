@@ -1,0 +1,1 @@
+In the seventh part of the course we'll focus on general programming paradigms and algorithms. The course Introduction to programming (TKT-10002) ends after the seventh week, and the Advanced course in programming (TKT-10003) begins with the eight part.
